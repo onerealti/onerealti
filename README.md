@@ -29,8 +29,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/onerealti/onerealti/output/snake.svg" alt="Snake animation" />
 
 ###
